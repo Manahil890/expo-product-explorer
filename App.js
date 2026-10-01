@@ -1,4 +1,3 @@
-import Missing from './components/DoesNotExist';
 import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
 import { StyleSheet, Text, TextInput, View, FlatList } from 'react-native';
